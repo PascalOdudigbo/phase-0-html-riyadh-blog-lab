@@ -21,7 +21,7 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(247, 201, 201, 0.85);
 }
 
 h1, h2 {
@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Gabriela', Georgia, 'Times New Roman', Times, serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
@@ -52,7 +52,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 0.8em;
 }
 
 a {
